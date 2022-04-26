@@ -4,5 +4,5 @@ In today’s world, where huge amount of data is generated in every field of day
 Firstly, I did import the libraries and then loading the dataset and show top 5 records and check shape and null values after that show the datatype and unique values and then statistical summary.
 I apply label encoder method to change category to numerical and then drop some columns. Further that, I did data visualization, train and test split method, modeling then I find out optimal model and make confusion matrix, ROC Curve and at last Classification Report .
 After implementing, the result acquired become best.
-# 2 report
+# 2 file- report
 In report I do detail description of all the things like graphs , data dictionary, train test split, modelling, ROC, confusion matrix, classification report in the word document.
